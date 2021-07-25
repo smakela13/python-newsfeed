@@ -1,4 +1,4 @@
-# Just Tech News Blog
+# Just Tech News Site
 
 ## Description
 
